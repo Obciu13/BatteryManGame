@@ -6,5 +6,6 @@ Each collected battery gives you 100 points. Randomly generated terrain will han
 because of short.
 
 Game was created using Unreal Engine 4 with C++ code and blueprints.
-Whole game is based on official Unreal Engine 4 tutorial "C++ Battery Collector": https://www.youtube.com/watch?v=mSRov77hNR4&list=PLZlv_N0_O1gYup-gvJtMsgJqnEB_dGiM4 
-and Awesome Tuts tutorial "Unreal Engine Step By Step Tutorial | How To Create A Game In UE4 And C++ | UE4 C++ Tutorial": https://www.youtube.com/watch?v=X4gMS3u1ACk.
+Whole game is based on:
+*Official Unreal Engine 4 tutorial "C++ Battery Collector": https://www.youtube.com/watch?v=mSRov77hNR4&list=PLZlv_N0_O1gYup-gvJtMsgJqnEB_dGiM4 
+*Awesome Tuts tutorial "Unreal Engine Step By Step Tutorial | How To Create A Game In UE4 And C++ | UE4 C++ Tutorial": https://www.youtube.com/watch?v=X4gMS3u1ACk.
