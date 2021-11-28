@@ -1,7 +1,7 @@
 # BatteryManGame
 
-This is Third-person view game when u have to collect "batteries" in order to maintain your energy level. U will have to hurry, because your power will decrease each second. When
-it drops to 0, u will lose control of character.
+This is Third-person view game when you have to collect "batteries" in order to maintain your energy level. You will have to hurry, because your power will decrease each second. When
+it drops to 0, you will lose control of character.
 Each collected battery gives you 100 points. Randomly generated terrain will handicap in collecting points, for exampe when u walk into water, your energry will decrease faster
 because of short.
 
