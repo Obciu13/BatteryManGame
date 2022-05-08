@@ -10,4 +10,3 @@ Whole game is based on:
 * Official Unreal Engine 4 tutorial "C++ Battery Collector": https://www.youtube.com/watch?v=mSRov77hNR4&list=PLZlv_N0_O1gYup-gvJtMsgJqnEB_dGiM4 
 * Awesome Tuts tutorial "Unreal Engine Step By Step Tutorial | How To Create A Game In UE4 And C++ | UE4 C++ Tutorial": https://www.youtube.com/watch?v=X4gMS3u1ACk.
 
-You can download game and watch short let's-play here: https://drive.google.com/drive/u/0/folders/1jBHdvE0ooZgss9L0jzE_tnri3nuLycBo
